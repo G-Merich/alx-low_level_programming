@@ -1,5 +1,6 @@
 /*
  * File: 0-hash_table_create.c
+ * Auth: Ogudu Gloria Merit
  */
 
 #include "hash_tables.h"
